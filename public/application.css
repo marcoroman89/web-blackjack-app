@@ -1,0 +1,73 @@
+
+body {
+  background-color: #03213f;
+  color: white
+
+}
+
+#nav-inner {
+  background-color: red;
+}
+
+.navbar-inner {
+  background-color: red;
+}
+
+.well {
+  -webkit-box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    2px 2px 5px rgba(50, 50, 50, 0.75);
+  box-shadow:         2px 2px 5px rgba(50, 50, 50, 0.75);
+}
+
+.well h4, h5 {
+  color: #333333;
+}
+
+#startover {
+  color: #333333;
+}
+
+#place-bet {
+  font-size: 12px;
+}
+
+form#hit_form {
+  float: left;
+  margin-right: 12px;
+}
+
+form#stay_form {
+  float: left;
+}
+
+.welcome-tag {
+  text-align: center;
+  text-decoration: none;
+}
+
+.welcome-tag a {
+  text-decoration: none;
+}
+
+#ruby-logo {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.icon-star {
+  margin: 10px;
+}
+
+.well img {
+  margin: 0px 12px 12px 0px;
+  -webkit-box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    2px 2px 5px rgba(50, 50, 50, 0.75);
+  box-shadow:
+}
+
+img.card_image {
+  margin: 0px 11px 11px 0px;
+  -webkit-box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    2px 2px 5px rgba(50, 50, 50, 0.75);
+  box-shadow:         2px 2px 5px rgba(50, 50, 50, 0.75);
+}
